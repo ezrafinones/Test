@@ -1,2 +1,7 @@
 Hello World! 
 //edited
+
+Print()
+{
+ cout<< "Hello World"
+}
